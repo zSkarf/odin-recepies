@@ -1,2 +1,4 @@
 # odin-recepies
-Repositório for the recepies site of Odin Project
+Repository for the recipes site of Odin Project
+
+
